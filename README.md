@@ -5,12 +5,12 @@
 Version 1.0 Oct 2015
 =====================================================================
 
-Application Developed: Zhulin Temple Library Management System
+Application Developed: Library Management System
 =====================================================================
 			       -----------	
 			       |Developer|
 			       -----------
-Zichuan Zhou, zhou0307@uni.flinders.edu.au
+Zichuan Zhou, hero_zzc@hotmail.com
 =====================================================================
 			 	 -------	
 				 |INTRO|
